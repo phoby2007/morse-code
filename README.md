@@ -1,6 +1,7 @@
 # morse-code
 KPL morse code
-PreviewじゃなくてEditの方で見ると見やすいかもよ
+
+PreviewじゃなくてCodeの方で見ると見やすいかもよ
 
 KPL 78期 部長 大井です。
 ALLJA, 全市全郡で使えるCW送信デバイスを作ったのでここに使い方を記しておきます。
